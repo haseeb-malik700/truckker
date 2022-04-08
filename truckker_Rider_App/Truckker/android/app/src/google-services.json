@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121044291728",
+    "firebase_url": "https://truckker-firebase.firebaseio.com",
+    "project_id": "truckker-firebase",
+    "storage_bucket": "truckker-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121044291728:android:ed3cc48d2ef0e5b918c815",
+        "android_client_info": {
+          "package_name": "com.enou.Truckker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121044291728-rbgde0f1gqvo4ec7djl5ud39vpptv48h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enou.Truckker",
+            "certificate_hash": "7461495e252eccf09c84c49a883fa66ae7d22e07"
+          }
+        },
+        {
+          "client_id": "121044291728-mul4l61d2vbriptp702sbddfn4u28c6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkoDfWHOnKRmOPOJRqV7TbDYFP49MDn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121044291728-mul4l61d2vbriptp702sbddfn4u28c6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
